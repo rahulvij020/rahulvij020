@@ -14,6 +14,17 @@ Welcome to my github profile! I'm a B.Tech student in Computer Science and a pas
 ## Databases
 - MongoDB, MySQL
 
+## 📌 Featured Projects
+
+Here are a few projects I've worked on recently:
+
+- 🔗 [E-commerce MERN Stack App](https://github.com/rahulvij020/ecommerce-mern-app)
+- 🔗 [Book Management System](https://github.com/rahulvij020/book-management)
+- 🔗 [Real-Time Chat Application](https://portfolio-rahul-vij.netlify.app/)
+- 🔗 [Portfolio Website](https://portfolio-rahul-vij.netlify.app/)
+
+--
+
 ⭐️ *Thanks for visiting my profile! If you like what I do, give a ⭐️ to my repositories and let's connect!*
 
 <!---
