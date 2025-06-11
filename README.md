@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rahulvij020
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+# 💫 About Me:
+Hi there! I'm **Rahul Vij**, a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I'm constantly learning new technologies and building applications that solve real-world problems
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://linkedin.com/in/rahul-vij-dcrust)
