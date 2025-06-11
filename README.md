@@ -8,11 +8,11 @@
 - [Portfolio](https://portfolio-rahul-vij.netlify.app/)
 
 ## 🛠️ My Tech Stack
-# Programming Languages
+## Programming Languages
 - C++, Python, Javascript
-# Frameworks & Tools
+## Frameworks & Tools
 - React.js, Node.js, Express.js, Socket.IO
-# Databases
+## Databases
 - MongoDB, MySQL
 
 ⭐️ *Thanks for visiting my profile! If you like what I do, give a ⭐️ to my repositories and let's connect!*
