@@ -21,7 +21,7 @@ Here are a few projects I've worked on recently:
 - 🔗 [E-commerce MERN Stack App](https://github.com/rahulvij020/E-Commerce-Website.git)
 - 🔗 [Book Management System](https://github.com/rahulvij020/Book-Store-Website.git)
 - 🔗 [Real-Time Chat Application](https://portfolio-rahul-vij.netlify.app/)
-- 🔗 [Portfolio Website](https://portfolio-rahul-vij.netlify.app/)
+- 🔗 [Portfolio Website](https://github.com/rahulvij020/Portfolio.git)
 
 --
 
