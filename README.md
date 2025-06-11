@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/rahul-vij-dcrust)](https://linkedin.com/in/rahul-vij-dcrust)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijrahul020@gmail.com)
+[![LinkedIn](https://linkedin.com/in/rahul-vij-dcrust)
+[![Email](mailto:vijrahul020@gmail.com)
 [![Portfolio](https://portfolio-rahul-vij.netlify.app/)
 
 🛠️ My Tech Stack
