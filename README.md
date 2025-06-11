@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I'm **Rahul Vij**, a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I'm constantly learning new technologies and building applications that solve real-world problems
+# Hi there! I'm **Rahul Vij**!👋
+Welcome to my github profile! I'm a B.Tech student in Computer Science and a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I'm constantly learning new technologies and building applications that solve real-world problems
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://linkedin.com/in/rahul-vij-dcrust)
