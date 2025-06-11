@@ -25,7 +25,7 @@ Here are a few projects I've worked on recently:
 
 ---
 
-⭐️ *Thanks for visiting my profile! If you like what I do, give a ⭐️ to my repositories and let's connect!*
+⭐️ Thanks for visiting my profile! If you like what I do, give a ⭐️ to my repositories and let's connect!
 
 <!---
 rahulvij020/rahulvij020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
