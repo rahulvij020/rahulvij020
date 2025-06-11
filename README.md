@@ -7,11 +7,11 @@ Welcome to my github profile! I'm a B.Tech student in Computer Science and a pas
 - [Portfolio](https://portfolio-rahul-vij.netlify.app/)
 
 ## 🛠️ My Tech Stack
-## Programming Languages
+### Programming Languages
 - C++, Python, Javascript
-## Frameworks & Tools
+### Frameworks & Tools
 - React.js, Node.js, Express.js, Socket.IO
-## Databases
+### Databases
 - MongoDB, MySQL
 
 ## 📌 Featured Projects
