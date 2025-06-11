@@ -7,13 +7,13 @@
 - [Email](mailto:vijrahul020@gmail.com)
 - [Portfolio](https://portfolio-rahul-vij.netlify.app/)
 
-🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 Programming Languages
-C++, Python, Solidity, Javascript
+- C++, Python, Javascript
 Frameworks & Tools
-React.js, Node.js, Express.js, Socket.IO
+- React.js, Node.js, Express.js, Socket.IO
 Databases
-MongoDB, MySQL
+- MongoDB, MySQL
 
 ⭐️ *Thanks for visiting my profile! If you like what I do, give a ⭐️ to my repositories and let's connect!*
 
