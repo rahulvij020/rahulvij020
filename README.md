@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 
 ## 🌐 Connect with me:
-[LinkedIn](https://linkedin.com/in/rahul-vij-dcrust)
-[Email](mailto:vijrahul020@gmail.com)
-[Portfolio](https://portfolio-rahul-vij.netlify.app/)
+- [LinkedIn](https://linkedin.com/in/rahul-vij-dcrust)
+- [Email](mailto:vijrahul020@gmail.com)
+- [Portfolio](https://portfolio-rahul-vij.netlify.app/)
 
 🛠️ My Tech Stack
 Programming Languages
